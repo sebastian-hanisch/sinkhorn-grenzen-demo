@@ -1,7 +1,6 @@
 # Wenn Sinkhorn falsch oder langsam rechnet – Streamlit-Demo
 
-<!-- TODO nach dem Deploy: direkt hierher den Live-Link setzen (Leerzeile davor und danach):
-**[→ Demo live ausprobieren](https://sebastianhanisch-sinkhorn-grenzen-demo.streamlit.app/)** -->
+**[→ Demo live ausprobieren](https://sebastianhanisch-sinkhorn-grenzen-demo.streamlit.app/)**
 
 Demo der Reihe **optimaler-transport** („Optimaler Transport: Verteilungen ineinander verschieben“) in der „Konzepte“-Reihe für die Website „Sebastian Hanisch – Operations Research und Machine Learning“. Sie setzt an der Annahme an, die die Demo „Sinkhorn: weich statt scharf“ stehen lässt: *Der gezeigte Plan ist exakt gerechnet: kein Unterlauf, kein Gleichstand, und seine Ableitung ist die des Grenzplans.* Vier Experimente heben sie auf: endliche Genauigkeit und Unterlauf (Experiment 1), ein Plan vor dem Ende samt Rundung und Ableitung (Experiment 2), Gleichstand (Experiment 3) und der Aufwand in Matrix-Vektor-Produkten (Experiment 4). Dazu ein Absatz über weiche Permutationen und weiche Ränge ohne eigenes Experiment. Die Annahmen der Demo „Sinkhorn: weich statt scharf“ bleiben bestehen, soweit sie hier nicht genannt sind (kontinuierliche Kosten, gleiche Gesamtmasse, positiver Kern).
 
